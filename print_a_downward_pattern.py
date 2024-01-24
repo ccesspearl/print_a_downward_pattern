@@ -2,6 +2,8 @@
 
 # Pseudocode 
 # Create a reverse loop 
-for i in range(5,0,-1):
-    
+for i in range(10,0,-1):
+
 # Print the results 
+    print(' * '*i, end = "")
+    print()
